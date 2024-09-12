@@ -12,8 +12,9 @@
 - [Technologies](#technologies)
 
 ## About
-
-> I am an introverted individual who is full of energy and determination. I enjoy working hard and collaborating with others. Currently, I am employed as a Full Stack Developer. My previous experience includes working as a Full Stack Software Developer. My goal is to constantly enhance my communication and technical abilities. 
+🚀
+> Hey there! I’m a passionate Full Stack Developer with a relentless drive to build, innovate, and elevate. My expertise spans the entire development spectrum—from crafting sleek, responsive front-ends with cutting-edge technologies to engineering robust, scalable back-ends that power seamless user experiences.
+🚀
 
 [Checkout my portfolio](https://dtechpro.netlify.app/)
 ## Technologies
