@@ -10,7 +10,6 @@
 
 - [About](#about)
 - [Technologies](#technologies)
-- [Education](#education)
 
 ## About
 
