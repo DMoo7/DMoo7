@@ -13,7 +13,7 @@
 
 ## About
 🚀
-> Hey there! I’m a passionate Full Stack Developer with a relentless drive to build, innovate, and elevate. My expertise spans the entire development spectrum—from crafting sleek, responsive front-ends with cutting-edge technologies to engineering robust, scalable back-ends that power seamless user experiences.
+> Hey there! I’m a passionate Full Stack Developer with a relentless drive to build, innovate, and elevate. My expertise spans the entire development spectrum from crafting sleek, responsive front-ends with cutting-edge technologies to engineering robust, scalable back-ends that power seamless user experiences.
 🚀
 
 [Checkout my portfolio](https://dtechpro.netlify.app/)
