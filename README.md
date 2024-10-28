@@ -21,7 +21,7 @@
 
 |  :notes: NOTE  |
 |   ----    |
-|  The technologies mentioned in the table, are the ones I have professional experience with. And they are sorted Left-Right inorder of experience |
+|  The technologies mentioned in the table, are the ones I have professional experience with. |
 
 | Stack | Technologies |
 | ----- | :-------------: |
